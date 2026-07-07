@@ -8,7 +8,6 @@ The extracted video and pathology representations are adaptively modulated using
 
 * Non-Neoplastic
 * Neoplastic
-* Carcinom
 
 ---
 
